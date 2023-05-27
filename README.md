@@ -12,5 +12,13 @@ Snitch Frank basically sends a payload asking the vulnerable server for its conf
 > Windows, Linux, MacOS, WSL
 
 ## **This tool does not require sudo**
-
+### **Usage**
+Snitch frank has 4 parameters.
+- u  | url (-u | --url) Required;
+- p  | port (-p | --port) Optional; Default is 10001
+- ua | user-agent (-ua | --user-agent) Optional; If no user agent is set by user, a random user agent will be picked.
+- v  | verbose (-v | --verbose) Optional; This option prints the progress on screen
+```
+python3 snitchfrank -u <URL> -v
+```
 ![](https://media.discordapp.net/attachments/1105259252135768207/1111864328652607549/image.png)
