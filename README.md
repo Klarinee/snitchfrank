@@ -9,8 +9,8 @@ Snitch Frank basically sends a payload asking the vulnerable server for its conf
 > Requests, Python 3
 
 ### **Compatible platforms**
-> Windows, Linux, MacOS
+> Windows, Linux, MacOS, WSL
 
 ## **This tool does not require sudo**
 
-[[]]
+![](https://media.discordapp.net/attachments/1105259252135768207/1111864328652607549/image.png)
